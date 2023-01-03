@@ -1,1 +1,3 @@
 " hi people" 
+"how are you"
+"how was the day"
